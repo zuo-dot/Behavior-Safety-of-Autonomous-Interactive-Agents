@@ -1,5 +1,16 @@
 
 <h1 align="center">Behavior Safety of Autonomous Interactive Agents: Risks, Attacks, Defenses, Evaluation, and Governance</h1>
+<div align="center">
+
+[![Visits](https://hits.sh/github.com/zuo-dotBehavior-Safety-of-Autonomous-Interactive-Agents.svg?style=flat-square&label=visits)](https://hits.sh/github.com/zuo-dot/Behavior-Safety-of-Autonomous-Interactive-Agents/)
+![Stars](https://img.shields.io/github/stars/zuo-dot/Behavior-Safety-of-Autonomous-Interactive-Agents?style=flat-square)
+![Forks](https://img.shields.io/github/forks/zuo-dot/Behavior-Safety-of-Autonomous-Interactive-Agents?style=flat-square)
+
+</div>
+
+
+
+
 ## 🧾Paper List
 
 <details open>
