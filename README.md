@@ -1,4 +1,5 @@
 
+<h1 align="center">Behavior Safety of Autonomous Interactive Agents: Risks, Attacks, Defenses, Evaluation, and Governance</h1>
 ## 🧾Paper List
 
 <details open>
@@ -21,7 +22,8 @@
             <li><a href="#model-side-risk">Model Side Risk</a></li>
             <li><a href="#malicious-interaction-causing-group-loss-of-control">Malicious Interaction Causing Group Loss-of-control</a></li>
           </ul>
-        </li>
+         </li>
+      </ul>
     </li>
     <li><a href="#community-safety">Community Safety</a>
       <ul>
