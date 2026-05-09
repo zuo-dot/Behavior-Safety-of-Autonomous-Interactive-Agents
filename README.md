@@ -1,4 +1,4 @@
-<h1 align="center">Behavior Safety of Autonomous Interactive Agents: Risks, Attacks, Defenses, Evaluation, and Governance</h1>
+<img width="1049" height="497" alt="image" src="https://github.com/user-attachments/assets/c342c65a-163d-4c71-963c-4f5ee41e40ef" /><h1 align="center">Behavior Safety of Autonomous Interactive Agents: Risks, Attacks, Defenses, Evaluation, and Governance</h1>
 
 
 
@@ -9,9 +9,9 @@
 <details open>
   <summary>📂 Table of Contents<em>(click to expand/collapse)</em></summary>
   <ul>
-    <li><a href="#endogenous-cognitive-vulnerability">Endogenous Cognitive Vulnerability</a>
+    <li><a href="#autonomous-interactive-safety">Autonomous Interactive Safety</a>
       <ul>
-        <li><a href="#working-memory">Working Memory</a>
+        <li><a href="#endogenous-cognitive-vulnerability">Endogenous Cognitive Vulnerability</a>
           <ul>
             <li><a href="#foundation-model-safety">Foundation Model Safety</a></li>
             <li><a href="#memory-vulnerability">Memory Vulnerability</a></li>
@@ -28,57 +28,32 @@
           </ul>
         </li>
     </li>
-    <li><a href="#tool-learning">🛠️Tool Learning</a>
+    <li><a href="#community-safety">Community Safety</a>
       <ul>
-        <li><a href="#tool-selection">Tool Selection</a>
-          <ul>
-            <li><a href="#external-retriever">External Retriever</a></li>
-            <li><a href="#multi-label-classification-mlc">Multi-Label Classification (MLC)</a></li>
-            <li><a href="#vocabulary-based-retrieval">Vocabulary-based Retrieval</a></li>
-          </ul>
+        <li><a href="#mcp-serve">MCP serve</a>
         </li>
-        <li><a href="#tool-calling">Tool Calling</a>
-          <ul>
-            <li><a href="#in-place-parameter-filling">In-Place Parameter Filling</a></li>
-            <li><a href="#parallel-tool-calling">Parallel Tool Calling</a></li>
-            <li><a href="#cost-aware-tool-calling">Cost-Aware Tool Calling</a></li>
-            <li><a href="#efficient-test-time-scaling">Efficient Test-Time Scaling</a></li>
-            <li><a href="#efficient-tool-calling-with-post-training">Efficient Tool Calling with Post-training</a></li>
-          </ul>
+        <li><a href="#tools">Tools</a>
         </li>
-        <li><a href="#tool-integrated-reasoning-tir">Tool-Integrated Reasoning (TIR)</a>
-          <ul>
-            <li><a href="#selective-invocation">Selective Invocation</a></li>
-            <li><a href="#cost-aware-policy-optimization">Cost-Aware Policy Optimization</a></li>
-          </ul>
+        <li><a href="#plugin">Plugin</a>
+        </li>
+        <li><a href="#skil">Skil</a>
         </li>
       </ul>
     </li>
-    <li><a href="#planning">🧩Planning</a>
+    <li><a href="#system-safety">System Safety</a>
       <ul>
-        <li><a href="#single-agent-planning-efficiency">Single-Agent Planning Efficiency</a>
-          <ul>
-            <li><a href="#adaptive-budgeting-and-control">Adaptive Budgeting and Control</a></li>
-            <li><a href="#structured-search-strategies">Structured Search</a></li>
-            <li><a href="#task-decomposition-and-routing">Task Decomposition</a></li>
-            <li><a href="#policy-optimization">Policy Optimization</a></li>
-            <li><a href="#architectural-synergy-with-memory-and-tools">Memory and Skill Acquisition</a></li>
-          </ul>
+        <li><a href="#software-vulnerability">Software vulnerability</a>
         </li>
-        <li><a href="#multi-agent-collaborative-efficiency">Multi-Agent Collaborative Efficiency</a>
-          <ul>
-            <li><a href="#topological-efficiency">Topological Efficiency and Sparsification</a></li>
-            <li><a href="#protocol-and-context-optimization">Protocol and Context Optimization</a></li>
-            <li><a href="#distilling-coordination-into-planning">Distilling Coordination into Planning</a></li>
-          </ul>
+        <li><a href="#resource-exhaustion">Resource Exhaustion</a>
+        </li>
+        <li><a href="#sandbox-and-isolation-boundar">Sandbox and Isolation Boundar</a>
         </li>
       </ul>
     </li>
-    <li><a href="#related-survey">📑Related Surveys</a>
+    <li><a href="#evaluation">Evaluation</a>
       <ul>
-        <li><a href="#memory-survey">Memory Survey</a></li>
-        <li><a href="#tool-learning-survey">Tool Learning Survey</a></li>
-        <li><a href="#planning-survey">Planning and Reasoning Survey</a></li>
+        <li><a href="#intrinsic-security Risks">Intrinsic Security Risks</a></li>
+        <li><a href="#external-security-risks">External Security Risks</a></li>
       </ul>
     </li>
   </ul>
