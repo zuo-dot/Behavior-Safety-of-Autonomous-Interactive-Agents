@@ -66,3 +66,48 @@
     </li>
   </ul>
 </details>
+
+
+
+
+
+
+
+
+
+<a name="multi-agent-architecture-vulnerability"></a>
+
+#####  Multi-agent Architecture Vulnerability
+
+* (2025-04) [Agentnet: Decentralized evolutionary coordination for llm-based multi-agent systems](https://arxiv.org/abs/2504.00587) [![Star](https://img.shields.io/github/stars/zoe-yyx/agentnet.svg?style=social&label=Star)](https://github.com/zoe-yyx/agentnet)
+* (2026-04) [Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering](https://arxiv.org/abs/2604.08224)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
