@@ -1,8 +1,3 @@
-<img width="1049" height="497" alt="image" src="https://github.com/user-attachments/assets/c342c65a-163d-4c71-963c-4f5ee41e40ef" /><h1 align="center">Behavior Safety of Autonomous Interactive Agents: Risks, Attacks, Defenses, Evaluation, and Governance</h1>
-
-
-
-
 
 ## 🧾Paper List
 
