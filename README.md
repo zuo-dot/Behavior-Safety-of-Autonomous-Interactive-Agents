@@ -50,11 +50,9 @@
     </li>
     <li><a href="#system-safety">System Safety</a>
       <ul>
-        <li><a href="#software-vulnerability">Software vulnerability</a>
-        </li>
         <li><a href="#resource-exhaustion">Resource Exhaustion</a>
         </li>
-        <li><a href="#sandbox-and-isolation-boundar">Sandbox and Isolation Boundar</a>
+        <li><a href="#isolation and permission failures">Sandbox and Isolation Boundar</a>
         </li>
       </ul>
     </li>
