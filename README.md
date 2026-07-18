@@ -19,9 +19,22 @@
     <li><a href="#intrinsic cognitive vulnerability">Autonomous Interactive Safety</a>
       <ul>
         <li><a href="#foundation model vulnerability">Foundation Model Vulnerability</a>
+          <ul>
+            <li><a href="#behavioral objective deviation">Behavioral Objective Deviation</a></li>
+            <li><a href="#memory shortcuts">Memory Shortcuts</a></li>
+            <li><a href="#infinite planning loop">Infinite Planning Loop</a></li>
+            <li><a href="#reflective rigidity.">Reflective rigidity</a></li>
+            <li><a href="#intention drift">Intention Drift</a></li>
+          </ul>
         <li><a href="#memory vulnerability">Memory Vulnerability</a>
         <li><a href="#tool-invocation vulnerability">Tool-invocation Vulnerability</a>
         <li><a href="#multi-agent collaboration vulnerability">Multi-agent Collaboration Vulnerability</a>
+          <ul>
+            <li><a href="#malicious-input-from-user-side">Malicious Input from User Side</a></li>
+            <li><a href="#malicious-payload-from-environment-side.">Malicious Payload from Environment Side.</a></li>
+            <li><a href="#model-side-risk">Model Side Risk</a></li>
+            <li><a href="#malicious-interaction-causing-group-loss-of-control">Malicious Interaction Causing Group Loss-of-control</a></li>
+          </ul>
         </li>
         <li><a href="#external-loss-of-control-risk">External Loss-of-control Risk</a>
           <ul>
