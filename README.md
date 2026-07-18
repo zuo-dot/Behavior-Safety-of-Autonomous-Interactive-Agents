@@ -16,15 +16,12 @@
 <details open>
   <summary>📂 Table of Contents<em>(click to expand/collapse)</em></summary>
   <ul>
-    <li><a href="#autonomous-interactive-safety">Autonomous Interactive Safety</a>
+    <li><a href="#Intrinsic Cognitive Vulnerability">Autonomous Interactive Safety</a>
       <ul>
-        <li><a href="#endogenous-cognitive-vulnerability">Endogenous Cognitive Vulnerability</a>
-          <ul>
-            <li><a href="#foundation-model-safety">Foundation Model Safety</a></li>
-            <li><a href="#memory-vulnerability">Memory Vulnerability</a></li>
-            <li><a href="#tool-calling-vulnerability">Tool-calling Vulnerability</a></li>
-            <li><a href="#multi-agent-architecture-vulnerability">Multi-agent Architecture Vulnerability</a></li>
-          </ul>
+        <li><a href="#Foundation Model Vulnerability">Endogenous Cognitive Vulnerability</a>
+        <li><a href="#Memory Vulnerability">Endogenous Cognitive Vulnerability</a>
+        <li><a href="#Tool-invocation Vulnerability">Endogenous Cognitive Vulnerability</a>
+        <li><a href="#Multi-agent Collaboration Vulnerability">Endogenous Cognitive Vulnerability</a>
         </li>
         <li><a href="#external-loss-of-control-risk">External Loss-of-control Risk</a>
           <ul>
