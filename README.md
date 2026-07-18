@@ -98,13 +98,28 @@
 
 
 
+<a name="intrinsic-cognitive-vulnerability"></a>
+#  Intrinsic Cognitive Vulnerability
+* (2024) [Ai agents under threat: A  survey of key security challenges and future pathways]((https://arxiv.org/pdf/2406.02630))
+* (2024) [The Emerged Security and Privacy of LLM Agent: A Survey with Case Studies](https://arxiv.org/abs/2407.19354)
+* (2024) [Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs](https://proceedings.neurips.cc/paper_files/paper/2024/file/7537726385a4a6f94321e3adf8bd827e-Paper-Datasets_and_Benchmarks_Track.pdf)
+
+<a name="foundation-model-vulnerability"></a>
+###  Foundation Model Vulnerability
+<a name="behavioral-objective-deviation"></a>
+#####  Behavioral Objective Deviation
+* (2025) [AgentMisalignment: Measuring the Propensity for Misaligned Behaviour in LLM-Based Agents](https://arxiv.org/abs/2506.04018)
+* (2025) [LLM-based Agents Suffer from Hallucinations: A Survey of Taxonomy, Methods, and Directions](https://arxiv.org/abs/2509.18970)
+* (2026) [AgentHallu: Benchmarking Automated Hallucination Attribution of LLM-based Agents](https://arxiv.org/abs/2409.11353)
+* (2024) [THaMES: An End-to-End Tool for Hallucination Mitigation and Evaluation in Large Language Models](https://arxiv.org/abs/2409.11353)
+* (2025) [AgentMisalignment: Measuring the Propensity for Misaligned Behaviour in LLM-Based Agents](https://arxiv.org/abs/2509.18970)
 
 
 
 
 <a name="multi-agent-architecture-vulnerability"></a>
 
-#####  Multi-agent Architecture Vulnerability
+##  Multi-agent Architecture Vulnerability
 
 * (2025-04) [Agentnet: Decentralized evolutionary coordination for llm-based multi-agent systems](https://arxiv.org/abs/2504.00587) [![Star](https://img.shields.io/github/stars/zoe-yyx/agentnet.svg?style=social&label=Star)](https://github.com/zoe-yyx/agentnet)
 * (2026-04) [Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering](https://arxiv.org/abs/2604.08224)
