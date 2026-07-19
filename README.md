@@ -45,7 +45,7 @@ Autonomous interactive agents are capable of long-horizon reasoning, autonomous 
         </li>
       </ul>
     </li>
-    <li><a href="#extrinsic-loss-of-control risk">Extrinsic Loss-of-control Risk</a>
+    <li><a href="#extrinsic-decision-manipulation">Extrinsic Decision Manipulation</a>
       <ul>
         <li><a href="#supply-chain-manipulation">Supply-Chain Manipulation</a>
           <ul>
@@ -244,8 +244,8 @@ Autonomous interactive agents are capable of long-horizon reasoning, autonomous 
 * (2026) [ProvAgent: Threat Detection Based on Identity-Behavior Binding and Multi-Agent Collaborative Attack Investigation](https://arxiv.org/abs/2603.09358)
 
 
-<a name="extrinsic-loss-of-control risk"></a>
-#  Extrinsic Loss-of-control Risk
+<a name="extrinsic-decision-manipulation"></a>
+#  Extrinsic Decision Manipulation
 <a name="supply-chain-manipulation"></a>
 ###  Supply-Chain Manipulation
 <a name="data-poisoning"></a>
