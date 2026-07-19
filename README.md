@@ -50,13 +50,13 @@ Autonomous interactive agents are capable of long-horizon reasoning, autonomous 
         <li><a href="#supply-chain-manipulation">Supply-Chain Manipulation</a>
           <ul>
             <li><a href="#data-poisoning">Data Poisoning</a></li>
-            <li><a href="#backdoor-attacks">backdoor attacks</a></li>
+            <li><a href="#backdoor-attacks">Backdoor Attacks</a></li>
           </ul>
         </li>
         <li><a href="#user-level-manipulation">User-Level Manipulation</a>
           <ul>
             <li><a href="#direct-prompt-injection">Direct Prompt Injection</a></li>
-            <li><a href="#jailbreak-jailbreak">Jailbreak Jailbreak</a></li>
+            <li><a href="#jailbreak">Jailbreak</a></li>
             <li><a href="#long-horizon-manipulation">Long-Horizon Manipulation</a></li>
           </ul>
         </li>
@@ -294,8 +294,8 @@ Autonomous interactive agents are capable of long-horizon reasoning, autonomous 
 * (2025) [Prompt Injection Detection and Mitigation via AI Multi-Agent NLP Frameworks](https://arxiv.org/abs/2503.11517)
 * (2026) [Agentic AI as a Cybersecurity Attack Surface: Threats, Exploits, and Defenses in Runtime Supply Chains](https://arxiv.org/html/2602.19555v1)
 
-<a name="jailbreak-jailbreak"></a>
-#####  Jailbreak Jailbreak
+<a name="jailbreak"></a>
+#####  Jailbreak
 * (2026) [BadRobot: Jailbreaking Embodied LLM Agents in the Physical World](https://arxiv.org/abs/2407.20242)
 * (2026) [Breaking the Code: Security Assessment of AI Code Agents Through Systematic Jailbreaking Attacks](https://arxiv.org/abs/2510.01359)
 * (2025) [Safe in Isolation, Dangerous Together: Agent-Driven Multi-Turn Decomposition Jailbreaks on LLMs](https://aclanthology.org/2025.realm-1.13/)
